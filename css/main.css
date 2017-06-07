@@ -1,0 +1,35 @@
+*{
+	font-family: 'Lato', sans-serif;
+}
+
+.first-section{
+	background-image: url(../img/bg.jpeg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.first-section h1{
+	padding-top: 2em;
+	color: #FFF;
+	font-weight: 900;
+	font-size: 70px;
+}
+
+.line{
+	border-top: 3px solid white;
+}
+
+#lading{
+	text-align: center;
+}
+
+#showApp{
+	color: #FFF;
+	font-weight: 400;
+}
+
+.app{
+	padding: 2em 0;
+	color: #5A5A5A;
+}
